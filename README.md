@@ -1,4 +1,6 @@
 ![p4rzl's GitHub stats](https://github-readme-stats.vercel.app/api?username=p4rzl&show_icons=true&theme=tokyonight)
+
+![p4rzl's GitHub stats](https://github-readme-stats.vercel.app/api?username=p4rzl&show_icons=true&theme=tokyonight&api_domain=https://wakapi.chiccolab.site/api)
 <!--
 **p4rzl/p4rzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
